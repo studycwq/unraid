@@ -2,12 +2,12 @@
 <Container version="2">
   <Name>aliyun-ddns</Name>
   <Repository>sanjusss/aliyun-ddns</Repository>
-  <Registry/>
+  <Registry>https://hub.docker.com/r/sanjusss/aliyun-ddns</Registry>
   <Network>host</Network>
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Support/>
+  <Support>https://hub.docker.com/r/sanjusss/aliyun-ddns</Support>
   <Project/>
   <Overview/>
   <Category/>
@@ -20,7 +20,7 @@
   <DateInstalled>1599023729</DateInstalled>
   <DonateText/>
   <DonateLink/>
-  <Description/>
+  <Description>自动设置阿里云解析。支持x86、ARM、多域名和ipv6 </Description>
   <Networking>
     <Mode>host</Mode>
     <Publish/>
